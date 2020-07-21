@@ -1,0 +1,1 @@
+# office-hours-sequelize-july-2020
